@@ -14,6 +14,8 @@ h1, h2 {
 
 h1 {
     font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
 }
 
 h2 {
@@ -54,10 +56,21 @@ h2 {
     margin-top: 25px;
 }
 
+.address {
+    margin-bottom: 5px;
+}
+
 hr {
     height: 2px;
     background-color: brown;
     border-color: brown;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
 }
 
 /* FOOTER */
